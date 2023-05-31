@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Handling-Form/static/css/main.209beac3.css",
+    "main.js": "/Handling-Form/static/js/main.98e6db8e.js",
+    "index.html": "/Handling-Form/index.html",
+    "main.209beac3.css.map": "/Handling-Form/static/css/main.209beac3.css.map",
+    "main.98e6db8e.js.map": "/Handling-Form/static/js/main.98e6db8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.209beac3.css",
+    "static/js/main.98e6db8e.js"
+  ]
+}
